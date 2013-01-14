@@ -1,0 +1,23 @@
+@people: luca gio dani gabro claudio jaja mike
+@group: luca gio dani gabro claudio jaja
+
+Ikea shared (Gabro 562.2)
+Ikea sedie (Gabro 195.27) gabro claudio dani
+Ikea desks (Gabro 32.53) gabro claudio
+Materassi (Gabro 300 Gio 260 Claudio 80)
+Macchina (Dani 99)
+Bonifico (Dani 18)
+Espresso cups (Gabro 18)
+WiFi range extender (Claudio 42)
+Projector Fridge Bulbs (Gio 258.5)
+Spesa Target (Claudio 117)
+Spesa Cibo (Claudio 37) gio gabro claudio dani
+Caparre (Dani 960 Luca 440 Gabro 300 Jaja 1500)
+Prima rata (Gio 1166.6 Gabro 583.3 Luca 583.3 Dani 583.3 Claudio 583.3) jaja +182
+Debiti (Dani 52.13 Luca 356.37 Gabro 13.18) claudio 309.88 gio 28.98 jaja 17.25 mike 64.51
+15 gio -> dani
+Birra (Gio 5) claudio
+Installazione Internet (Gabro 34.99)
+Security deposit Internet (Gabro 50)
+Primo mese internet (Gabro 7.85)
+400 claudio -> gabro
